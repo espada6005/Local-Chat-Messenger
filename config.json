@@ -1,0 +1,4 @@
+{
+    "server_socket_path": ".server_socket_file",
+    "client_socket_path": ".client_socket_file"
+}
